@@ -22,7 +22,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/antonhtmnn/MMU.git
+    git clone https://github.com/antonhtmnn/MMU-and-Allocator.git
     ```
 2. Navigate to the `MMU-and-Allocator` directory:
     ```bash
